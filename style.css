@@ -1,0 +1,27 @@
+
+body {
+    background-color: azure;
+    color: black;
+    text-align: center;
+    color-scheme: 	#4c175a, 	#863b87, 	#ecf2f4,	#27214f,	#9a52a3;
+}
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px;
+    color: rgba(0, 255, 98, 0.199);
+}
+h3 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.centred-image {
+    display: block; /* Ensure the image is treated as a block element */
+    margin: 0 auto; /* Center the image horizontally */
+}
+h2 {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    border-color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
