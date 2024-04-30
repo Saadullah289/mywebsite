@@ -1,15 +1,18 @@
 
 body {
-    background-color: azure;
+    background-color: rgb(121, 97, 230);
     color: black;
     text-align: center;
     color-scheme: 	#4c175a, 	#863b87, 	#ecf2f4,	#27214f,	#9a52a3;
 }
 h1 {
     text-align: center;
+    text-shadow: 1px 3px 5px rgb(0, 0, 0),-1px 3px 5px rgb(0, 0, 0) ;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 100px;
-    color: rgba(0, 255, 98, 0.199);
+    color: rgb(255, 0, 234);
+    border: 1cm outset purple;
+    border-radius   : 4cm;
 }
 h3 {
     text-align: center;
@@ -24,4 +27,11 @@ h2 {
     background-color: rgb(255, 255, 255);
     border-color: red;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img {
+     border-style: outset;
+     border-width: 4px;
+     border-color: rgb(121, 97, 230);
+     border-radius: 10px;
+
 }
